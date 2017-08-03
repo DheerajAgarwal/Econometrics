@@ -9,6 +9,8 @@ COURSE END: TBD
 **Week Start:** July 30, 2017
 **Week End:** TBD
 
+[Week 8 Notebook](https://github.com/DheerajAgarwal/Econometrics/tree/master/W8)
+
 
 ## WEEK 1
 **Week Start:** TBD
