@@ -1,6 +1,4 @@
-# Building Blocks
+# Week 1: Regression
 
 Basics of  
-1. Matrix Operations
-2. Probability
-3. Statistics
+1. Simple Regresion
