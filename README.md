@@ -9,55 +9,56 @@ COURSE END: TBD
 **Week Start:** July 30, 2017
 **Week End:** TBD
 
-[Week 8 Notebook](https://github.com/DheerajAgarwal/Econometrics/tree/master/W8)
+[Week 8 Notebooks](https://github.com/DheerajAgarwal/Econometrics/tree/master/W8)
 
 
-## WEEK 1
-**Week Start:** TBD
-**Week End:** TBD
+## WEEK 1  
 
-Data: 
-Python Code:
+**Week Start:** Aug 6th 2017
+**Week End:** Aug 13th 2017
+
+Data: [Text files and metadata](https://github.com/DheerajAgarwal/Econometrics/tree/master/W1/data)  
+Python Code: [Week 1 Notebooks](https://github.com/DheerajAgarwal/Econometrics/tree/master/W1)
 
 ## WEEK 2
-**Week Start:** TBD
+**Week Start:** Aug 7th 2017
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]
 Python Code:
 
 ## WEEK 3
 **Week Start:** TBD
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]
 Python Code:
 
 ## WEEK 4
 **Week Start:** TBD
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]  
 Python Code:
 
 ## WEEK 5
 **Week Start:** TBD
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]  
 Python Code:
 
 ## WEEK 6
 **Week Start:** TBD
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]  
 Python Code:
 
 ## WEEK 7
 **Week Start:** TBD
 **Week End:** TBD
 
-Data:
+Data: [Text files and metadata]  
 Python Code:
 
