@@ -2,8 +2,8 @@
 
 This week covers the fundamentals of multiple regression. The repo contains:
 
-1. Some (TBD) training exercises and
-2. TBD graded assignment notebok.
+1. TWO training exercises which needed code to solve and  
+2. ONE graded assignment [notebok](https://github.com/DheerajAgarwal/Econometrics/blob/master/W2/Week_2_Multiple_Regression_GradedAssignment.ipynb) or [pdf](https://github.com/DheerajAgarwal/Econometrics/blob/master/W2/Week_2_Multiple_Regression_GradedAssignment.pdf)
 
 
 _Note:_  
