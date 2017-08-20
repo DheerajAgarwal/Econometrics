@@ -21,14 +21,14 @@ Data: [Text files and metadata](https://github.com/DheerajAgarwal/Econometrics/t
 Python Code: [Week 1 Notebooks](https://github.com/DheerajAgarwal/Econometrics/tree/master/W1)
 
 ## WEEK 2
-**Week Start:** Aug 7th 2017
-**Week End:** TBD
+**Week Start:** Aug 14th 2017
+**Week End:** Aug 20th 2017
 
-Data: [Text files and metadata]
-Python Code:
+Data: [Excel files and metadata](https://github.com/DheerajAgarwal/Econometrics/tree/master/W2/data)
+Python Code: [Week 2 Notebooks](https://github.com/DheerajAgarwal/Econometrics/tree/master/W2)
 
 ## WEEK 3
-**Week Start:** TBD
+**Week Start:** Aug 21st 2017
 **Week End:** TBD
 
 Data: [Text files and metadata]
